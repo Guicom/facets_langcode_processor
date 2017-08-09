@@ -1,0 +1,7 @@
+name: Facets Language code processor
+type: module
+description: A Facets processor that transform language code to language label.
+core: 8.x
+dependencies:
+  - drupal:facets
+package: Demo
